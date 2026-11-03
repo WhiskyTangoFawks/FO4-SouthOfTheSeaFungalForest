@@ -1,0 +1,7 @@
+*
+!/.gitignore
+!/.gitattributes
+!/build.json
+!/plugin-source/
+!/plugin-source/**
+!/South\ of\ the\ Sea\ -\ Fungal\ Forest.manifest.json
