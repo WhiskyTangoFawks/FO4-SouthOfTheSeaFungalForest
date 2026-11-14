@@ -60,7 +60,6 @@
     "0E50AF:Fallout4.esm",
     "049BE0:Fallout4.esm"
   ],
-  "Location": "003C7B:SouthOfTheSea.esm",
   "PhysicsReferences": [
     "18FD1A:Fallout4.esm",
     "18FD1B:Fallout4.esm",
@@ -2988,7 +2987,6 @@
         "InitiallyDisabled"
       ],
       "Base": "000F9D:SSTFungalForest.esp",
-      "LocationReference": "003C7B:SouthOfTheSea.esm",
       "Position": "-94442.32, -95527.805, -3000",
       "Rotation": "0, 0, 3.519308"
     },
@@ -3001,7 +2999,6 @@
         "InitiallyDisabled"
       ],
       "Base": "000F9E:SSTFungalForest.esp",
-      "LocationReference": "003C7B:SouthOfTheSea.esm",
       "Position": "-95216.91, -95943.37, -3000",
       "Rotation": "0, 0, 3.4460714"
     }
